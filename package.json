@@ -1,5 +1,5 @@
 {
-  "name": "gndx.me",
+  "name": "orlando_personal_web_page",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -11,5 +11,8 @@
   },
   "dependencies": {
     "astro": "^3.2.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   }
 }
